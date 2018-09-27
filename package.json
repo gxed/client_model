@@ -1,0 +1,22 @@
+{
+  "author": "lanzafame",
+  "bugs": {},
+  "gx": {
+    "dvcsimport": "github.com/gxed/client_model"
+  },
+  "gxDependencies": [
+    {
+      "author": "golang",
+      "hash": "QmTNEsrsAFXXdBxjZjdoN35QxFdeSdsdGUJBFVwdRX6ySk",
+      "name": "protobuf",
+      "version": "3.6.1"
+    }
+  ],
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "client_model",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.1"
+}
+
